@@ -1,0 +1,13 @@
+{
+    "web":  {
+                "version":  "0.3.1",
+                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/web-0.3.1.zip",
+                "notes":  "Uygulama artık kendini internetten güncelleyebiliyor."
+            },
+    "apk":  {
+                "versionCode":  4,
+                "version":  "0.3.1",
+                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/Akis-0.3.1.apk",
+                "notes":  "Uygulama artık kendini internetten güncelleyebiliyor."
+            }
+}
