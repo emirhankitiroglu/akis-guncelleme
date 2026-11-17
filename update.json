@@ -1,13 +1,13 @@
 {
     "web":  {
-                "version":  "0.5.0",
-                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/web-0.5.0.zip",
-                "notes":  "Gizli bildirimler, açılış ekranı, borç kapanış ve part-time simülasyonu, fon-enflasyon karşılaştırması, sıfırlama düzeltmesi."
+                "version":  "0.5.1",
+                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/web-0.5.1.zip",
+                "notes":  "Ayarlar düğmeleri düzeltildi; güncelleme adımları kolaylaştı."
             },
     "apk":  {
-                "versionCode":  6,
-                "version":  "0.5",
-                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/Akis-0.5.apk",
-                "notes":  "Gizli bildirimler, açılış ekranı, borç kapanış ve part-time simülasyonu, fon-enflasyon karşılaştırması, sıfırlama düzeltmesi."
+                "versionCode":  7,
+                "version":  "0.5.1",
+                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/Akis-0.5.1.apk",
+                "notes":  "Ayarlar düğmeleri düzeltildi; güncelleme adımları kolaylaştı."
             }
 }
