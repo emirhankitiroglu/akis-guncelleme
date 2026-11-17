@@ -1,13 +1,13 @@
 {
     "web":  {
-                "version":  "0.4.0",
-                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/web-0.4.0.zip",
-                "notes":  "Kart ödeme hatırlatmaları, ekstreden otomatik kart önerisi, TEFAS fonları, halka arz sekmesi ve bildirimleri."
+                "version":  "0.5.0",
+                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/web-0.5.0.zip",
+                "notes":  "Gizli bildirimler, açılış ekranı, borç kapanış ve part-time simülasyonu, fon-enflasyon karşılaştırması, sıfırlama düzeltmesi."
             },
     "apk":  {
-                "versionCode":  5,
-                "version":  "0.4",
-                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/Akis-0.4.apk",
-                "notes":  "Kart ödeme hatırlatmaları, ekstreden otomatik kart önerisi, TEFAS fonları, halka arz sekmesi ve bildirimleri."
+                "versionCode":  6,
+                "version":  "0.5",
+                "url":  "https://emirhankitiroglu.github.io/akis-guncelleme/Akis-0.5.apk",
+                "notes":  "Gizli bildirimler, açılış ekranı, borç kapanış ve part-time simülasyonu, fon-enflasyon karşılaştırması, sıfırlama düzeltmesi."
             }
 }
